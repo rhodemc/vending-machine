@@ -37,6 +37,8 @@ Future updates will include a better UI.
 
 This app was built with starter code provided by the University of Oregon's Full Stack Bootcamp.
 
+[This is an external link to the Module 19 starter code](https://github.com/coding-boot-camp/cautious-meme)
+
 ## License
 
 This project is licensed by MIT. Please refer to the documentation in the repo.
