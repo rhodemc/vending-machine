@@ -15,7 +15,7 @@ I was motivated to create a text editor because it is a useful tool for develope
 
 ## Installation
 
-To install this project, you will need to clone the repository onto your local machine. Once done, you will need to install the necessary dependencies. To do this, navigate to the root directory of the project in your command terminal and run the following commands: 'npm i' and 'npm run start'. This will install the necessary dependencies and start your local server.
+To install this project, you will need to clone the repository onto your local machine. Once done, you will need to install the necessary dependencies. To do this, navigate to the root directory of the project in your command terminal and run the following commands: 'npm i', 'npm run build' and 'npm run start' in that order. This will install the necessary dependencies and start your local server.
 
 Navigate to your localhost port in your browser to use the app.
 
