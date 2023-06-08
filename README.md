@@ -29,9 +29,9 @@ If you don't want to install but still want to use the app, follow the link belo
 
 Future updates will include a better UI.
 
-![Vending Machine - Just Another Text Editor](/public/images/vending-machine.png)
+![Vending Machine - Just Another Text Editor](/client/src/images/vending-machine.png)
 
-[This is an external link to 'Vending Machine' hosted on Heroku](https://vending-machine.herokuapp.com/)
+[This is an external link to 'Vending Machine' hosted on Heroku](https://vendingvending-machinemachine.herokuapp.com/)
 
 ## Credits
 
